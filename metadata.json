@@ -1,0 +1,6 @@
+{
+  "name": "Imperium Barber Club",
+  "description": "Premium landing page for Imperium Barber Club in São Paulo. Elegant, high-conversion design with interactive pricing, bento-grid features, and WhatsApp booking integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
